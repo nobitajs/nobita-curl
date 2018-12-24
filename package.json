@@ -1,6 +1,6 @@
 {
   "name": "nobita-curl",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nobita-curl",
   "main": "lib/nobita-curl.js",
   "dependencies": {
